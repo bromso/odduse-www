@@ -1,6 +1,0 @@
-{
-  "extends": ["biomejs"],
-  "rules": {
-    // your rules here
-  }
-}
